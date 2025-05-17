@@ -249,5 +249,5 @@ def generate_hiphop_beat(output_file="hiphop_beat.mid",
             [1.0, 0.33, 0.33, 0.33, 1.0, 1.0]  # четвертная + триоль + четвертные
         ]
         
-        # Выбираем случайный ритмический паттерн для мелодии
+        # Choosing a random rythmic pattern for melody
         chosen_pattern = random.choice(rhythm_patterns)
